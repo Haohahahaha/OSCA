@@ -1,6 +1,7 @@
 # OSCA
 
-![osca-logo](./index-pic/osca-logo.png)
+<center><img src="./index-pic/osca-logo.png" height="30%"/></center>
+
 
 欢迎来到OSCA主页！
 

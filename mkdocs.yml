@@ -2,7 +2,7 @@ site_name: OSCA
 theme: 
   name: material
   icon:
-    logo: material/noodles
+    logo: material/robot-happy-outline
   favicon: https://cs.haohaha.cn/image/favicon.png
 #     admonition:
   palette:
@@ -39,9 +39,9 @@ theme:
 edit_uri: edit/main/docs
 
 nav:
-  - 主页: index.md
-  - OSCA招生简章: recruit/recruit.md
-  - OSCA培养方案:
+  - 简介: index.md
+  - 招生简章: recruit/recruit.md
+  - 人才培养:
     - 个人成长路线-beta: fertile/fertile.md
     - 2023年度考核标准: fertile/assessment-2023.md
   - 友链: friend/friends.md
@@ -80,4 +80,4 @@ extra:
       link: https://github.com/Haohahahaha/osca/actions
       name: GitHub Actions
 ## [bottom-left corner]
-copyright: Copyright &copy; 2024-现在 浩哈哈哈哈_ # 左下角的版权声明
+copyright: Copyright &copy; 2024-现在 浩哈哈哈哈_ & OSCA Team # 左下角的版权声明

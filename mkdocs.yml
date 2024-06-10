@@ -7,8 +7,8 @@ theme:
 #     admonition:
   palette:
     - scheme: slate # 夜间模式
-      primary: black
-      accent: light green
+      primary: light green
+      accent: green
       toggle:
         icon: material/weather-sunny
         name: 切换至日间模式

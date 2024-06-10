@@ -39,9 +39,10 @@ theme:
 edit_uri: edit/main/docs
 
 nav:
-  - 简介: index.md
-  - 招生简章: recruit/recruit.md
+  - 首页: index.md
+  - 关于团队: recruit/recruit.md
   - 人才培养:
+    - fertile/index.md
     - 个人成长路线-beta: fertile/fertile.md
     - 2023年度考核标准: fertile/assessment-2023.md
   - 友链: friend/friends.md

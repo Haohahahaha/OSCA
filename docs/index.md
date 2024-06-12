@@ -11,5 +11,5 @@
     - [人才培养](/guide/index)
         - [个人成长路线-beta](/guide/guide)
     - [招生简章](/recruit/recruit)
-    - [成员简介](/friend/friends)
-    - [友情链接](/friend/links)
+    - [成员简介](/members/members)
+    - [友情链接](/members/links)

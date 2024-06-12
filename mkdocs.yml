@@ -46,8 +46,8 @@ nav:
     - 个人成长路线-beta: guide/guide.md
     - 2023年度考核标准: guide/assessment-2023.md
   - 招生简章: recruit/recruit.md
-  - 成员简介: friend/friends.md
-  - 友情链接: friend/links.md
+  - 成员简介: members/members.md
+  - 友情链接: members/links.md
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页

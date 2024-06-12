@@ -40,12 +40,14 @@ edit_uri: edit/main/docs
 
 nav:
   - 首页: index.md
-  - 关于团队: recruit/recruit.md
+  - 关于团队: about/about.md
   - 人才培养:
-    - fertile/index.md
-    - 个人成长路线-beta: fertile/fertile.md
-    - 2023年度考核标准: fertile/assessment-2023.md
-  - 友链: friend/friends.md
+    - guide/index.md
+    - 个人成长路线-beta: guide/guide.md
+    - 2023年度考核标准: guide/assessment-2023.md
+  - 招生简章: recruit/recruit.md
+  - 成员简介: friend/friends.md
+  - 友情链接: friend/links.md
 
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页

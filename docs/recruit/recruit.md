@@ -46,13 +46,13 @@
 
 	面试结束后，会在下一次面试前发出录取通知，否则视为未录取。
 
-	报名问卷：<a href="https://osca-ielab-bigc.feishu.cn/share/base/form/shrcnorSwIBSVzjBPzUNGOOGkWf"><red><bold>点击链接</bold></red></a>
+	报名问卷：<a href="https://osca-ielab-bigc.feishu.cn/share/base/form/shrcnorSwIBSVzjBPzUNGOOGkWf"><font color="green"><b>点击链接</b></font></a>
 
 !!! info "FAQ"
 
     答疑群二维码
 
-	<center><img src="./0612.jpg" width="300"/></center>
+	<center><img src="./0612.jpg"/ style="height:400px;"></center>
 
 > Author: 
 > 

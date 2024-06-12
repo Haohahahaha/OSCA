@@ -38,11 +38,21 @@
 
 	组内活动缺席与第一学期实验室期末考核不通过，后果自负~~~🤣
 
+!!! info "报名方式与流程"
+
+	报名要填写问卷，每周我们会安排两次面试，即报即面。
+
+	填写问卷为初步筛选，填写后3-4天内通知面试，否则视为未录取。
+
+	面试结束后，会在下一次面试前发出录取通知，否则视为未录取。
+
+	报名问卷：<a href="https://osca-ielab-bigc.feishu.cn/share/base/form/shrcnorSwIBSVzjBPzUNGOOGkWf"><red><bold>点击链接</bold></red></a>
+
 !!! info "FAQ"
 
     答疑群二维码
 
-    ![qr-code](./0612.jpg)
+	<center><img src="./0612.jpg" width="300"/></center>
 
 > Author: 
 > 

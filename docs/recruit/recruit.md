@@ -52,7 +52,7 @@
 
     答疑群二维码
 
-	<center><img src="./0612.jpg"/ style="height:400px;"></center>
+	<center><img src="0612.jpg"/ style="height:400px;"></center>
 
 > Author: 
 > 

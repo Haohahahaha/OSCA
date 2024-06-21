@@ -261,15 +261,21 @@ gantt
 
 3. still for 负基础 && 没必要，确实没必要<del>为我院C++课做个衔接适配</del>：
 
-    1. 可以学但没必要，你即将转入Vim的世界。<del>[VS2022](https://www.bilibili.com/video/BV1Xt411g7jT)</del> 
+    1. Frank配套课程：[VS2022](https://www.bilibili.com/video/BV1Xt411g7jT)
 
-	2. 仅仅用来理解编程语言的入门教程：[C语言 - Frank](https://www.bilibili.com/video/BV1qE411d7Zx)
+	2. C教程：
+
+	    - [C语言 上 - Frank](https://www.bilibili.com/video/BV1Ae41117Gd/)
+
+        - [C语言 下 - Frank](https://www.bilibili.com/video/BV1oJ4m1Y7ry)
 
 ---
 
 #### 入门 III：工具学习过程
 
 !!! info "工欲善其事必先利其器——漫长又飞速、不可缺少且不可马虎"
+
+	这一阶段要登梯望远咯。
 
 ##### Linux
 

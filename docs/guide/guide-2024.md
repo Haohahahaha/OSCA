@@ -1,4 +1,4 @@
-# 个人成长路线-beta
+# 2024届-培养方案
 
 ???+ info "更新记录"
 
@@ -314,6 +314,6 @@
 
 ## 开源活动
 
-    - [中科院开源之夏](https://summer-ospp.ac.cn/)
+- [中科院开源之夏](https://summer-ospp.ac.cn/)
 
-    - [Google Summer of Code](https://summerofcode.withgoogle.com/)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/)

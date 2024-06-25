@@ -4,10 +4,6 @@
 
     20240625更新：fork from 2023版，由于学校招生政策由大类改回具体系别，故将培养方案进行重构。
 
-#### 通用升学方案开始
-
-## 培养方案
-
 !!! question "What we do"
 
 	1. 通过了解个人的情况，帮助你分析得出 `更为低坡度的学习方案` + `更科学和合理的预期管理`
@@ -20,9 +16,9 @@
 
 	我们团队管理也采用了OKR。
 
-### 入门
+## 入门
 
-#### 入门 I.a：英语
+### 入门 I.a：英语 (考研复用)
 
 - 在遇到大量英文资料之前，至少过完一遍考研大纲5600（时长根据具体情况因人而异，要尽快），之后每日坚持打卡
 
@@ -38,7 +34,7 @@
 
 - Some Useful: 按照主题分类再背单词+读资料，这样可以把同主题的记在一起了。
 
-!!! success "一键解决校内+四级+考研英语+外网资料阅读，一举多得。"
+!!! success "当你的英语达到足够的水平后，可满足 **校内+四级+考研英语+外网资料阅读** 这些学习生活中的必要需求。"
 
 !!! tip ""
 
@@ -50,15 +46,19 @@
 
 ---
 
-#### 入门 I.b：数学（考研复用）
+### 入门 I.b：数学（考研复用）
+
+!!! info "负基础补丁"
+
+	如果你真的觉得你的数学水平不太行，先看宋浩老师的课程吧！B站都有哦。
 
 - 杨超高数
 
 - 杨威线代
 
-!!! info "新增补丁"
+!!! info "风格补丁"
 
-	如果杨威的风格感觉不能适应，可选择杨超线代（已发至网盘群）。
+	如果杨威的风格感觉不能适应，可选择杨超线代。
 
 - 余炳森概率论
 
@@ -76,7 +76,7 @@
 
 ---
 
-#### 入门 II：负基础——培育计算机人必备素养
+### 入门 II：负基础——培育计算机人必备素养
 
 !!! info "负基础是什么呢？我认为，比如，上大学是你第一次有机会认真使用电脑。"
 
@@ -84,25 +84,29 @@
 
 2. for 负基础的同学：[Windows基础](https://www.bilibili.com/video/BV1vR4y1Q7iF) + [计算机硬件基础](https://www.bilibili.com/video/BV1TL4y1N7ZM)
 
-3. still for 负基础 && 没必要，确实没必要<del>为我院C++课做个衔接适配</del>：
+3. 进入专业大门：
 
     1. Frank配套课程：[VS2022](https://www.bilibili.com/video/BV1Xt411g7jT)
 
 	2. C教程：
+   
+		仍优先老版精简C语言（网盘，记得找Haohaha要资料）
 
-	    - [C语言 上 - Frank](https://www.bilibili.com/video/BV1Ae41117Gd/)
+	3. !!!必学-[变量名命名的艺术](https://www.bilibili.com/video/BV1X64y1o7EZ)
+   
+        > 不规范的代码读起来令人去世。
 
-        - [C语言 下 - Frank](https://www.bilibili.com/video/BV1oJ4m1Y7ry)
+	
 
 ---
 
-#### 入门 III：工具学习过程
+### 入门 III：工具学习过程
 
 !!! info "工欲善其事必先利其器——漫长又飞速、不可缺少且不可马虎"
 
 	这一阶段要登梯望远咯。
 
-##### Linux
+#### Linux
 
 !!! info ""
  
@@ -122,7 +126,7 @@
 
 	- [git快速入门](https://ysyx.oscc.cc/docs/ics-pa/git.html)
 	
-- [101]-[Linux零基础用户入门: Linux 101](https://101.ustclug.org/)
+- [101]-可代替Frank Linux: [Linux零基础用户入门: Linux 101](https://101.ustclug.org/)
 
 - [tmux]-[tmux 使用教程](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
 
@@ -134,33 +138,16 @@
 
 - [PA0]-[PA0](https://ysyx.oscc.cc/docs/ics-pa/PA0.html)
 
-!!! tip "Linux日常办公方案"
-
-	关于Linux日常办公化，即抛弃Windows，主机直接采用Linux的方案，我提供一套 beta 版本的解决方案。
-
-	但实际上你自己根据自己的需求搜搜其实也能解决……（就是很可能耗时，容易把热情消耗没）
-
-Python：[Harvard CS50x](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/CS50/) 可能是不错的选择。**学习Python有利于入门编程，以及编写自动化构建脚本。有进阶想法的可以学习** [Harvard CS50P](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/CS50P/)
-
 !!! info ""
 
 	此处，如果你有更多想法，想去学习更多的知识，那么[CSDiy-CS自学指南——from北大信科](https://csdiy.wiki)将会是一个探索与学习知识的伊甸园。当然，里面的课99%都是全英文教学，所以这里你也能看得出，之前在英语方面下的功夫没有白费了。我相信，你达到熟练掌握英语阅读的时间越早，你快乐地学习（非常棒的）知识——进入伊甸园的时间越早。希望你能认真阅读这个网站。
 
-提升中文输入速度：五笔输入法
-
-> 本人正在学习，没有找到合适教程，但正在用金山打字通ing。也许b站最高播放量适合一点。
-
-- [LaTeX —— 设计必备](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/LaTeX/)
-
-!!! info "用 Vim 快速写 LaTeX 来记数学笔记"
-
-    - 高效书写、管理数学笔记的系列文章：[Gilles Castel](https://castel.dev/)
 
 - [Docker —— 配环境利器](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/Docker/)
 
 ---
 
-##### C语言深入学习
+#### C语言深入学习
 
 推荐：关于C语言的学习，（有Linux命令行基础）
 
@@ -174,21 +161,13 @@ Python：[Harvard CS50x](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8
 
 - C Triggers Pitfalls
 
-规范化：
-
-- [变量名命名的艺术](https://www.bilibili.com/video/BV1X64y1o7EZ) 
+规范化-进阶： 
 
 - ysyx引用的内容更全面，更好：
 
 	- [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
 
 	- [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
-
-!!! info "更多信息"
-
-	互联网“管中窥豹”：[B/S体系入门](https://www.bilibili.com/video/BV1d7411p7RF)
-
-	C++开发方向：侯捷视频教程
 
 !!! info "" 
 
@@ -204,7 +183,7 @@ Python：[Harvard CS50x](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8
 
 ---
 
-##### personnal blog
+#### 个人博客
 
 !!! info ""
 
@@ -218,17 +197,19 @@ Python：[Harvard CS50x](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8
 
 - [Markdown的示例Doc](https://markdown-it.github.io/)
 
+- 真的好用诶：[日常学习工作流](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/)
+
 !!! danger "实际上"
 
-	实际上，要玩转Material，看文档并尝试实现功能，是个耗精力的事情。
+	实际上，要玩转Mkdocs-Material，看文档并尝试实现功能，要花费可观的时间。
+
+	至少你要知道文档的目录里都讲了啥，方便以后需要的时候查找。
 
 	这里看起来字很少而已。
 
-- (**探索版**) [日常学习工作流](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/)
-
 ---
 
-##### 入门书籍
+#### 入门书籍
 
 - 编码——隐匿在计算机软硬件背后的语言（计组初探）
 
@@ -244,11 +225,9 @@ Python：[Harvard CS50x](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8
 
 ---
 
-### 基础
+## 基础
 
-#### 基础 I：基础理论知识框架（考研复用）
-
-==(寒假1-4周)==
+### 基础 I：基础理论知识框架-408（考研复用）
 
 - 数据结构
 
@@ -256,58 +235,34 @@ Python：[Harvard CS50x](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8
 
 - 操作系统
 
-!!! tip "寒假加一本读物"
-
-    - ==(寒假第5周)==[RISC-V 开放架构设计之道](http://riscvbook.com/chinese/RISC-V-Reader-Chinese-v1.pdf)，已有印刷版[在京东出售](https://item.jd.com/14304044.html)。
-
-
 - 计算机网络
-
-!!! note "更推荐的数据结构课程"
-
-    - [MIT 6.006](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/6.006/)
-
-	- 数据结构进阶 [MIT 6.046](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/6.046/)
 
 ---
 
-#### 通用升学方案结束，专业兴趣方案开始
+### 基础 II-1：`CA` 一生一芯
 
-#### 基础 II-1：`OS` uCore & rCore
+- 中科院计算所-“一生一芯” [概述](https://ysyx.oscc.cc/docs/about/intro/overview.html) 和 [官网](https://ysyx.oscc.cc/) ，其包含以下内容：
 
-==(第2学期第2-3周)==
+    - [RISC-V 开放架构设计之道](http://riscvbook.com/chinese/RISC-V-Reader-Chinese-v1.pdf)，已有印刷版[在京东出售](https://item.jd.com/14304044.html)。
 
-??? tip "用C语言开发的操作系统--uCore"
+    - 南京大学[PA-NEMU](https://nju-projectn.github.io/ics-pa-gitbook/ics2022/)
 
-	> 虽然这已经不太符合时代潮流了，但基于我们已会的C语言，用uCore上手显然是一个正确的选择！
+    - [南京大学计算机科学与技术系 数字逻辑与计算机组成 课程实验](https://nju-projectn.github.io/dlco-lecture-note/index.html)
+	
+    - [xv6 —— 6.S081 by MIT](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
 
-	[uCore 2023 指导书](https://www.mobisys.cc/oslab/lab2023/_book/index.html)
+!!! info "意义"
 
-	[Mobisys 组](https://www.mobisys.cc/index.html)的 [OSLab 资源在此](https://www.mobisys.cc/oslab/index.html) 。
+	"一生一芯"能够完成"自制CPU"与"自制OS"的培养训练，但我们认为ysyx更大的意义在于，能够使人**真正成长并拥有自己独立解决问题的能力**（这对于自学更多专业课程具有根本性的意义）
+---
 
-	!!! note "又发现一个宝藏网站捏，555，目前没精力进行 DFS，TAT"
+### 基础 II-2：`OS` uCore & rCore
 
-	> 20240120更新：好好好，发现南开的 Mobisys 组就是在维护这个网站，而且有2023版 uCore 了。以下资源仅供参考，不用了不用了TAT（浩睿留下了痛苦的泪水）
-
-	> - [uCore OS (on RISC-V64) 实验指导书](https://nankai.gitbook.io/ucore-os-on-risc-v64/)
-
-	> - [uCore step by step](https://1790865014.gitbook.io/ucore-step-by-step/)
-
-	> - [ucoreonrv - Github](https://github.com/nkgongxl/ucoreonrv/tree/code_practice) uCore实验源码
-
-	> 给uCore指导书补链接：
-
-	> - ==(开学第1周)==[Link Script](https://home.cs.colorado.edu/~main/cs1300/doc/gnu/ld_3.html)
-
-	>  [终于有人把RISC-V讲明白了-电子发烧友网](https://www.elecfans.com/d/653167.html)
-
-	> [RISC-V-Reader-Chinese-v2p1.pdf](https://crva.ict.ac.cn/wjxz/202202/P020220217666841292320.pdf)(这本书就是上文的《RISC-V 开放架构设计之道》，但 uCore 里面引用的内容是此处的电子版本。)
-
-???+ note "[rCore-Tutorial-v3](https://rcore-os.cn/rCore-Tutorial-Book-v3/)"
+- "[rCore-Tutorial-v3](https://rcore-os.cn/rCore-Tutorial-Book-v3/)"
 
 ???+ note "[OS Tutorial Summer of Code 2020：Rust系统编程入门指导](https://github.com/rcore-os/rCore/wiki/os-tutorial-summer-of-code-2020#step-0-%E8%87%AA%E5%AD%A6rust%E7%BC%96%E7%A8%8B%E5%A4%A7%E7%BA%A67%E5%A4%A9)"
 
-    - ==(第2学期第4周)== 完成 `Step 0` 部分
+    - 完成 `Step 0` 部分
 
 	- 好吧应该给时间也完成一下 `Step 1` 部分，不过我相信寒假打好了计算机组成原理的基础之后，完成这部分的任务并达到要求应该花不了太多时间啦。
 
@@ -317,11 +272,11 @@ Python：[Harvard CS50x](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8
 	>
 	> 嘿嘿嘿（zhr狡黠地笑）~
 
-    - ==(第2学期第5-6周)== 继续完成上面链接的 `Step 2` 部分。
+    - 继续完成上面链接的 `Step 2` 部分。
 
 - [开源操作系统训练营的课程资料和最新通知](https://github.com/LearningOS)
 
-- [Open-Source OS Training Comp 2023](https://github.com/LearningOS/rust-based-os-comp2023/tree/main)，期待2024!
+- [Open-Source OS Training Comp 2024](https://github.com/LearningOS/rust-based-os-comp2024)
 
 !!! quote ""
 
@@ -331,165 +286,34 @@ Python：[Harvard CS50x](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8
 
 ---
 
-#### 基础 II-2：`CA` 一生一芯
+## 进阶
 
-- 中科院计算所-“一生一芯” [概述](https://ysyx.oscc.cc/docs/about/intro/overview.html) 和 [官网](https://ysyx.oscc.cc/) ，其包含以下内容：
+> 这里给出的链接绝大多数为 CSDIY 网站的网址，因其包含相关所有资料，包括课程官方主页~
 
-    - 南京大学[PA-NEMU](https://nju-projectn.github.io/ics-pa-gitbook/ics2022/)
+- [计算机导论 CSAPP —— CMU CS15-213](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/CSAPP/)
 
-    - [南京大学计算机科学与技术系 数字逻辑与计算机组成 课程实验](https://nju-projectn.github.io/dlco-lecture-note/index.html)
-	
-    - [xv6 —— 6.S081 by MIT](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
+- [数据结构 —— 6.006 by MIT](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/6.006/)
 
-!!! info ""
+- [计算机网络 —— CS144 by StandFord](https://csdiy.wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/CS144/)
 
-	"一生一芯"能够完成"自制CPU"与"自制OS"的培养训练，以及很多的技能（EE&&CS全栈人才培养）。
----
+- [分布式系统 —— 6.5840(6.824) by MIT](https://csdiy.wiki/%E5%B9%B6%E8%A1%8C%E4%B8%8E%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/MIT6.824/)
 
-#### 基础 III： 毕业设计
+- [数据库系统 —— 15-445 by CMU](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/15445/)
 
-!!! info "OS和ysyx都有相关支持学生毕业设计的项目，可自行查阅"
+- [编译原理 —— 编译原理实践 by PKU](https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/PKU-Compilers/)
 
-- [人生大事 —— 毕业设计写作](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/thesis/)
+- [计算机图形学 —— Games101 by UCSB](https://csdiy.wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/GAMES101/#_1)
 
+- [高级计算机体系结构 —— ECE752 by UWisc](https://pages.cs.wisc.edu/~sohi/cs752/Spring2024/)
 
-??? info "进阶"
+- [机器学习 —— 吴恩达](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/)
+  
+- [深度学习 —— 吴恩达](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS230/#_1)
 
-	!!! danger "这里就几乎都是英文了。"
 
-	- [计算机网络 —— CS144 by StandFord](https://cs144.github.io/)
 
-	- [分布式系统 —— 6.5840(6.824) by MIT](https://pdos.csail.mit.edu/6.824/schedule.html)
+## 开源活动
 
-	- [数据库系统 —— 15-445 by CMU](https://15445.courses.cs.cmu.edu/spring2023/)
+    - [中科院开源之夏](https://summer-ospp.ac.cn/)
 
-	- [商用数据库——SQLite源码学习](https://github.com/sqlite/sqlite)
-
-	??? info "操作系统方向"
-
-    	- [xv6 —— 6.S081 by MIT](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
-
-    	- [Pintos —— CS162 by UC Berkeley](https://cs162.org/)
-
-    	- [NJU OS —— by jyy（蒋岩岩）of NJU](http://jyywiki.cn/OS/2023/)
-
-    	- [Linux 0.11 —— by 李治军 of HIT](https://www.bilibili.com/video/BV19r4y1b7Aw)
-
-	??? info "体系结构方向"
-
-    	- [Coursera: Nand2Teris](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/N2T/)
-	
-    	- [Digital Design and Computer Architecture —— by ETH Zurich](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/DDCA/)
-	
-    	- [CS61C: Great Ideas in Computer Architecture —— by UC Berkeley](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/CS61C/)
-
-    	- [CS15-213 CSAPP —— by CMU](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/CSAPP/)
-
-??? info "专业"
-
-	此阶段着重进行专业书籍和专业课程的学习，但鉴于以上课程的教科书已包含很大一部分，故不列确定书单，下面书单仅供参考。
-
-	此处专业课程我没有提供，需要以后讨论和自行寻找。
-
-	??? info "包含上面课程的部分教科书"
-
-		- 深入理解操作系统（CSAPP）
-
-		- 计算机网络：自顶向下
-
-		- 数据结构（邓俊辉）
-
-		- 计算机组成原理：硬件/软件接口
-
-		- 计算机体系结构：量化研究方法
-
-		- CPU自制入门
-
-	??? info "操作系统"
-
-		- 操作系统：精髓与设计原理 （William Stallings著 陈向群 陈渝译）
-
-		- 操作系统：原理与实现（陈海波 夏虞斌等著）
-
-		- 操作系统概念（Abraham Silberschatz等著 郑扣根 唐杰 李善平等译）
-
-		- 现代操作系统（Andrew S. Tanenbaum等著 陈向群 马洪兵等译）
-
-		- 操作系统导论（Remzi H. Arpaci-Dusseau等著 王海鹏译）
-
-		- Linux内核设计与实现（Robert Love著 陈莉君 康华译）
-
-		- Linux内核完全注释（赵炯著）
-
-		- 深入理解Linux内核（Daniel P. Bovet & Marco Cesati著 陈莉君 张琼声 张宏伟译）
-
-	??? note "有一些os的入门书籍，也同时列在这里了"
-	
-		- 30天自制操作系统（川合秀实著 周自恒等译）
-	
-		- Linux是怎样工作的（武内觉著 曹栩译）
-
-		未来根据需要增减挑选。
-
-??? info "研究/工作"
-
-	!!! note "推荐于静老师的系列科研课程~"
-	
-		[科研与英文学术论文写作](https://space.bilibili.com/301285406/channel/collectiondetail?sid=535567&ctype=0)
-
-	- 设计复现
-
-	- 开源活动
-
-    	- [中科院开源之夏](https://summer-ospp.ac.cn/)
-
-    	- [Google Summer of Code](https://summerofcode.withgoogle.com/)
-
-	- 开源芯片研究院实习/工作
-
-!!! note "培养目标"
-
-	!!! info "入门阶段"
-
-		!!! danger "考核标准"
-
-			[考核标准在此](http://cs.haohaha.cn/greenhand/fertile/assessment-2023/)，转正考核期为每学年上学期（适用人群：大一新生）。
-
-			如果通过，则继续学习；若不通过，可根据学生意愿选择是否完成入门学习。
-
-		!!! info "寒暑假其实还是要用来学习的"
-
-			过了入门阶段之后，个人可根据自身情况和意愿，选择是否利用寒暑假来进行学习。
-
-			其实学上头了，不用说也就学下去了；不过我也蛮同意“假期就是要休息”这样的观点的(因为我也懒，我也想休息，哈哈)。
-
-	!!! info "基础阶段，为期3 + `12~18` 个月"
-
-		1. 计算机基础理论知识；
-
-		2. **坚持**完成"一生一芯"培养方案；
-
-		3. 操作系统的实现。
-
-		4. 必备工具学习
-
-
-!!! info "可参加的竞赛"
-
-	- [全国大学生计算机系统能力大赛——操作系统设计赛-内核实现赛](https://os.educg.net/#/index?TYPE=OS_N)
-
-	- [全国大学生计算机系统能力大赛——操作系统设计赛-功能挑战赛](https://os.educg.net/#/index?TYPE=OS_G)
-
-	- [”龙芯杯“全国大学生计算机系统能力培养大赛——CPU设计赛](http://www.nscscc.com/)
-
-??? info  "预期成果"
-
-	有望实现的成果：
-
-	- 一生一芯相关成果
-
-	- 基于rCore自制OS 
-
-	- 考研取得理想的成绩，继续深造；
-
-	- 竞赛方面：第一年预期在区域级比赛（初赛）中取得佳绩，经过一到三年的积累，有望冲击全国赛（决赛）的奖项。
+    - [Google Summer of Code](https://summerofcode.withgoogle.com/)

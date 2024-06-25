@@ -292,7 +292,7 @@
 
 	Rust：[Rust程序设计语言](https://rustwiki.org/zh-CN/book/)
 
-	    > 更多的中文Rust教程在[主站](https://rustwiki.org/)。
+	> 更多的中文Rust教程在[主站](https://rustwiki.org/)。
 
 ---
 

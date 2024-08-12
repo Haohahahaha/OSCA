@@ -18,4 +18,4 @@
 
 !!! example "成员合影"
 
-    ![osca-20240628](./osca-20240628.jpg)
+    ![osca-20240628](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/NpwNbWPuuoH598xdWt2c202cnSd/?fallback_source=1&height=1280&mount_node_token=WeMRdc6WGoRPcux6iudc3wKOnWh&mount_point=docx_image&policy=equal&width=1280)

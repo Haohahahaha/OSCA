@@ -44,7 +44,7 @@
 
 !!! note "OSCA logo"
 
-	<center><img src="blob:https://osca-ielab-bigc.feishu.cn/090fc59f-394e-4c6f-8981-0641b5061776" style="height:200px;"/></center>
+	<center><img src="http://osca.haohaha.cn/index-pic/osca-logo.png" style="height:200px;"/></center>
 
 !!! note "OSCA名称释义"
 

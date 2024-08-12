@@ -54,11 +54,11 @@
 
 	报名问卷：<a href="https://osca-ielab-bigc.feishu.cn/share/base/form/shrcnorSwIBSVzjBPzUNGOOGkWf"><font color="green"><b>点击链接</b></font></a>
 
-!!! info "FAQ"
+!!! info "感兴趣 && More Question && 报名"
 
-    答疑群二维码
+    【微信】 13634269954(张学长) / 【备用】18730563531(另一个张学长)
 
-	<center><img src="https://osca.haohaha.cn/recruit/to240806.jpg" style="height:400px;"/></center>
+    答疑群由学长确认身份后邀请。
 
 > Author: 
 > 
@@ -66,4 +66,4 @@
 >
 > - Xmbtx (Botao Zhao)
 >
-> Update: 2024-06-12
+> Update: 2024-08-12

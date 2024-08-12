@@ -41,6 +41,7 @@ edit_uri: edit/main/docs
 nav:
   - 首页: index.md
   - 关于团队: about/about.md
+  - 招生简章: recruit/recruit.md
   - 人才培养:
     - guide/index.md
     - 2023届: 
@@ -50,7 +51,6 @@ nav:
       - 2024届-培养方案: guide/guide-2024.md
       - 2024届-考核标准: guide/assessment-2024.md
       - 2024届-培养方案-折叠精简版: guide/guide-2024-foldable.md
-  - 招生简章: recruit/recruit.md
   - 成员简介: members/members.md
   - 友情链接: members/links.md
 

@@ -1,6 +1,6 @@
 # OSCA
 
-<center><img src="https://osca-ielab-bigc.feishu.cn/space/api/box/stream/download/asynccode/?code=YjFhNmIyNTM4ZDNiM2YwM2M3NGJjNjg1NzZkMDJhMWZfSVd6VkhxMkJNQ1RWTnRxbE9RVXg1N1RHeXRLTGlON0NfVG9rZW46T3E3eGJnSlF0b3NhU2d4cUcxS2M3QzkwbkdoXzE3MjM0NDcyMTg6MTcyMzQ1MDgxOF9WNA" width="200"/></center>
+![osca](./index-pic/osca-logo.png)
 
 
 欢迎来到OSCA主页！

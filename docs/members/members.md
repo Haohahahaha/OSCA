@@ -18,4 +18,4 @@
 
 !!! example "成员合影"
 
-    ![osca-20240628](https://osca-ielab-bigc.feishu.cn/space/api/box/stream/download/asynccode/?code=YjE0N2E4MjVkNGMzN2I4MTlhZjc4OWY5NDczMmFkODBfdUt4Rk9HTDY5eWZ1c28yQjVwU3NQeUl1cmdNWmlDcDZfVG9rZW46TnB3TmJXUHV1b0g1OTh4ZFd0MmMyMDJjblNkXzE3MjM0NDcyMTg6MTcyMzQ1MDgxOF9WNA)
+    ![osca-20240628](./osca-20240628.jpg)

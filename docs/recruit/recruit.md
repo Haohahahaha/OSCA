@@ -56,7 +56,7 @@
 
 !!! info "感兴趣 && More Question && 报名"
 
-    【微信】 APTX4869---_- (张学长) / 【备用】doudoudog2wice (另一个张学长)
+    【微信】doudoudog2wice (张学长)
 
     答疑群由学长确认身份后邀请。
 

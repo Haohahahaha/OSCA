@@ -52,7 +52,7 @@
 
 	面试结束后，会在下一次面试前发出录取通知，否则视为未录取。
 
-	报名问卷：<a href="https://osca-ielab-bigc.feishu.cn/share/base/form/shrcnorSwIBSVzjBPzUNGOOGkWf"><font color="green"><b>点击链接</b></font></a>
+	报名问卷：【现已封存，2025年度再次开放。】
 
 !!! info "感兴趣 && More Question && 报名"
 

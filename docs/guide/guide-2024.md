@@ -108,11 +108,11 @@
 
 	3. 进入专业大门：
 
-		1. Frank配套课程：[VS2022](https://www.bilibili.com/video/BV1Xt411g7jT)
+		1. 凑合过渡の IDE ：[VS2022](https://www.bilibili.com/video/BV1Xt411g7jT)
 
-		2. C教程：仍优先老版精简C语言（网盘，记得找Haohaha要资料）
+		2. C 教程：**以精简版 C 语言为主！**（在度盘中，记得找张浩睿要资料）
 
-		3. !!!必学-[变量名命名的艺术](https://www.bilibili.com/video/BV1X64y1o7EZ)
+		3. !!! 必学 -- [变量名命名的艺术](https://www.bilibili.com/video/BV1X64y1o7EZ)
 	
 		    > 不规范的代码读起来令人去世。
 
@@ -146,13 +146,13 @@
 
 !!! info "说明"
  
-	根据[Linux系统安装和基本使用 - ysyx](https://ysyx.oscc.cc/docs/2306/prestudy/0.2.html) 进行拆解，并加入了一些（有一定重复的）内容。
+	根据[Linux系统安装和基本使用 - ysyx](https://ysyx.oscc.cc/docs/2306/preliminary/0.2.html) 进行拆解，并加入了一些（有一定重复的）内容。
 
 	写学习记录时的简称放在了下面，位置为`[简称]`。
 
 !!! danger "主要内容"
 
-	- [Frank Linux]-[Linux操作基础 - Frank](https://www.bilibili.com/video/BV18U4y1W7av)(低坡度付费版，如果喜欢Frank风格，相信你还是可以支持一下的)
+	- [101]-[Linux零基础用户入门: Linux 101](https://101.ustclug.org/)
 
 	- [附录]-ysyx引用NJU-PA(NEMU)的几个附录需要先看一看，这样能解答你很多问题
 		
@@ -163,8 +163,8 @@
 		- [man快速入门](https://ysyx.oscc.cc/docs/ics-pa/man.html)
 
 		- [git快速入门](https://ysyx.oscc.cc/docs/ics-pa/git.html)
-		
-	- [101]-可代替Frank Linux: [Linux零基础用户入门: Linux 101](https://101.ustclug.org/)
+
+	- 【现已非推荐】[Frank Linux]-[Linux操作基础 - Frank](https://www.bilibili.com/video/BV18U4y1W7av)(低坡度付费版，如果喜欢Frank风格，相信你还是可以支持一下的)
 
 	- [tmux]-[tmux 使用教程](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
 
@@ -190,7 +190,7 @@
 
 	关于C语言的学习，（有Linux命令行基础）
 
-	- [Learn C the hard way](https://www.cntofu.com/book/25/index.html) 
+	- [Learn C the hard way](https://www.cntofu.com/book/25/index.html) [备用链接](https://wizardforcel.gitbooks.io/lcthw/content/preface.html)
 
 	- C Primer Plus 
 
@@ -318,7 +318,7 @@
 
 !!! danger "主要内容"
 
-	- 中科院计算所-“一生一芯” [概述](https://ysyx.oscc.cc/docs/about/intro/overview.html) 和 [官网](https://ysyx.oscc.cc/) ，其包含以下内容：
+	- 中科院计算所-“一生一芯” [概述](https://ysyx.oscc.cc/project/intro.html) 和 [官网](https://ysyx.oscc.cc/) ，其包含以下内容：
 
 		- [RISC-V 开放架构设计之道](http://riscvbook.com/chinese/RISC-V-Reader-Chinese-v1.pdf)，已有印刷版[在京东出售](https://item.jd.com/14304044.html)。
 
@@ -368,7 +368,7 @@
 
 !!! danger "主要内容"
 
-	- [计算机导论 CSAPP —— CMU CS15-213](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/CSAPP/)
+	- [计算机导论 CSAPP —— CMU CS15-213](https://csdiy.wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/CSAPP/)
 
 	- [数据结构 —— 6.006 by MIT](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/6.006/)
 

@@ -2,6 +2,10 @@
 
 ???+ info "更新记录"
 
+	20241110更新：搬运工 `zhr` 发现了热乎(2H前上传)的 [LCPU Getting Started 第一讲-前言、搜索、提问与大模型的使用（PKU版Missing Semester）](https://www.bilibili.com/video/BV1sLD6YXEC6)，于是在 入门 III - Linux 部分增加了配套资料。
+
+	> rui评：我们国内学生也有了自己的 Missing Semester！🥳
+
     20240625更新：fork from 2023版，由于学校招生政策由大类改回具体系别，故将培养方案进行重构。
 
 !!! question "What we do"
@@ -168,6 +172,8 @@
 
 	- [tmux]-[tmux 使用教程](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
 
+	- [Getting Started]-[LCPU Getting Started 计算机入门系列课程 - 补充学校课程涉及不到的知识](https://missing.lcpu.dev/) [Bilibili课程链接 - 第一讲](https://www.bilibili.com/video/BV1sLD6YXEC6)
+  
 	- [Missing]-[Missing Semester(计算机教育中缺失的一课) - MIT](https://missing-semester-cn.github.io/)
 
 	- [make]-[跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/overview.html)

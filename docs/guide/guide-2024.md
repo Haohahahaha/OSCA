@@ -2,6 +2,8 @@
 
 ???+ info "更新记录"
 
+	20241113更新：更改 入门 I 的 负基础课程，下调难度。
+
 	20241110更新：搬运工 `zhr` 发现了热乎(2H前上传)的 [LCPU Getting Started 第一讲-前言、搜索、提问与大模型的使用（PKU版Missing Semester）](https://www.bilibili.com/video/BV1sLD6YXEC6)，于是在 入门 III - Linux 部分增加了配套资料。
 
 	> rui评：我们国内学生也有了自己的 Missing Semester！🥳
@@ -108,9 +110,11 @@
 
 	1. (没有认真研读的一律判定为负基础) [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) 和 [别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
 
-	2. for 负基础的同学：[Windows基础](https://www.bilibili.com/video/BV1vR4y1Q7iF) + [计算机硬件基础](https://www.bilibili.com/video/BV1TL4y1N7ZM)
+	2. for 负基础的同学：[【计算机义务教育】弥补童年遗失的微机课](https://space.bilibili.com/62799052/channel/collectiondetail?sid=3524511) 更适合你一些。
 
-	3. 进入专业大门：
+	3. 在搞定“义务教育”之后，这个在使用的过程中长期慢慢看即可：[Windows基础](https://www.bilibili.com/video/BV1vR4y1Q7iF) + [计算机硬件基础](https://www.bilibili.com/video/BV1TL4y1N7ZM)
+
+	4. 进入专业大门：
 
 		1. 凑合过渡の IDE ：[VS2022](https://www.bilibili.com/video/BV1Xt411g7jT)
 

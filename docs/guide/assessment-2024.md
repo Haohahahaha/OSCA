@@ -23,9 +23,9 @@
 	
 		- 操作部分
     	> Frank Linux已弃用。目前操作部分主要参考：
-    	> 1. Linux 101
-    	> 2. Linux入门教程
-    	> 3. 命令行的艺术
+    	>     1. Linux 101
+    	>     2. Linux入门教程
+    	>     3. 命令行的艺术
             - bash shell - 文件的查询、建立、移动、复制、链接、删除、显示
         	- Shell+ - 进程管理*、挂载*、grep、sort
         	- 父子shell - sleep 和 jobs、alias

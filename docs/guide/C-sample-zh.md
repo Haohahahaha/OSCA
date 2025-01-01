@@ -11,11 +11,11 @@
 下面是示例代码。
 
 ```c
-#include<stdio.h>
+#include <stdio.h>
 #include <assert.h>
 #include <stdlib.h>
 #include <string.h>
-#include<stdarg.h>
+#include <stdarg.h>
 
 int main(int argc,char *argv[])
 {

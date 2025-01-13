@@ -1,5 +1,3 @@
-# OSCA
-
 <center><img src="index-pic/osca-logo.png" width="200"/></center>
 
 

@@ -34,7 +34,7 @@ OSCA团队隶属于信息工程学院本科生实验室，在徐长波副院长�
     <center><img src="index-pic/图片8-学术会议-1.jpg"></center>
     <center><img src="index-pic/图片9-学术会议-2.jpg"></center>
 
-!!! warning "<font color="green">**本团队承担了本科生实验室的资料库搭建与维护工作，目前已投入使用。**</font>"
+!!! warning "<font color="red">本团队承担了本科生实验室的资料库搭建与维护工作，目前已投入使用。</font>"
 
     <center><img src="index-pic/图片10-服务器后台界面.png" width="70%"></center>
     <center><img src="index-pic/图片11-服务器照片.jpg" width="70%"></center>

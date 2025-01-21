@@ -2,6 +2,8 @@
 
 ???+ info "更新记录"
 
+	20250121更新：来点儿小推荐（见基础 [III-1：OI Wiki](#III-1)）
+
 	20241113更新：更改 入门 I 的 负基础课程，下调难度。
 
 	20241110更新：搬运工 `zhr` 发现了热乎(2H前上传)的 [LCPU Getting Started 第一讲-前言、搜索、提问与大模型的使用（PKU版Missing Semester）](https://www.bilibili.com/video/BV1sLD6YXEC6)，于是在 入门 III - Linux 部分增加了配套资料。
@@ -367,6 +369,21 @@
 
 	- [Open-Source OS Training Comp 2024](https://github.com/LearningOS/rust-based-os-comp2024)
 
+### 基础 III-1：OI Wiki <a id="III-1"></a>'
+
+!!! note "基础 III 为 纯扩展 部分，非必做与考察内容，读者请按需制定个人学习规划。"
+
+!!! danger "主要内容"
+
+	[OI Wiki](https://oi-wiki.org/)
+
+!!! tip "推荐原因"
+
+	本人作为一个完全打题萌新，这个网站从0开始讲解 C++ 的各种语法，使我的脑子豁然开朗，旋转升天。
+	
+	后续的算法讲解，由易到难，由浅入深，含简介/定义/介绍/讲解/要点，还有例题详解与习题。不可谓不全面（套盾：basically, not wholy）。
+
+	或许对复试机试/算法相关有一定帮助。
 
 ---
 

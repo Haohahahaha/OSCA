@@ -2,6 +2,8 @@
 
 ???+ info "更新记录"
 
+	20250208更新：[博客](#II-5)框架添加两个新鲜玩意儿。
+
 	20250121更新：来点儿小推荐（见基础 [III-1：OI Wiki](#III-1)）
 
 	20241113更新：更改 入门 I 的 负基础课程，下调难度。
@@ -262,7 +264,7 @@
 
 	- 个人博客（正式成员）[单独指导]
 
-### 工具 II-5：个人博客（正式成员）
+### 工具 II-5：个人博客（正式成员）<a id="II-5"></a>
 
 !!! info "英语英语英语！"
 
@@ -287,6 +289,21 @@
 	至少你要知道文档的目录里都讲了啥，方便以后需要的时候查找。
 
 	这里看起来字很少而已。
+
+!!! info "可选用的博客框架（250208新增）"
+	- 文档类
+      	- [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) （这个框架已有比较成熟的部署经验，见[基于 mkdocs-material 的个人博客搭建 - 浩哈哈哈哈](https://cs.haohaha.cn/greenhand/initializer-material-blog/blog-init/)）
+      	- ✨(new)[VitePress](https://vitepress.dev/)
+      	- ✨(new)[Retype](https://retype.com/)
+      	
+    	!!! tip "推荐理由"
+			使用文档类框架写博客，便于将个人博文有条理地整理成目录树。
+
+  	- 博客类
+    	- [Hexo](https://hexo.io/zh-cn/) 😉超级经典
+  
+      	!!! tip "优点"
+			个性化主题丰富~（More...）
 
 ---
 

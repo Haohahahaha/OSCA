@@ -291,7 +291,9 @@
 	这里看起来字很少而已。
 
 !!! info "可选用的博客框架（250208新增）"
+ 
 	- 文档类
+  
       	- [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) （这个框架已有比较成熟的部署经验，见[基于 mkdocs-material 的个人博客搭建 - 浩哈哈哈哈](https://cs.haohaha.cn/greenhand/initializer-material-blog/blog-init/)）
       	- ✨(new)[VitePress](https://vitepress.dev/)
       	- ✨(new)[Retype](https://retype.com/)

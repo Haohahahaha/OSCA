@@ -2,6 +2,8 @@
 
 ???+ info "更新记录"
 
+	20250222更新：[博客](#II-5)框架添加一个新框架 Hugo Blox，这个略复杂，但是效果很不错，还能适应多编辑器。
+
 	20250208更新：[博客](#II-5)框架添加两个新鲜玩意儿。
 
 	20250121更新：来点儿小推荐（见基础 [III-1：OI Wiki](#III-1)）
@@ -297,6 +299,7 @@
       	- [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) （这个框架已有比较成熟的部署经验，见[基于 mkdocs-material 的个人博客搭建 - 浩哈哈哈哈](https://cs.haohaha.cn/greenhand/initializer-material-blog/blog-init/)）
       	- ✨(new)[VitePress](https://vitepress.dev/)
       	- ✨(new)[Retype](https://retype.com/)
+      	- ✨(new)[Hugo Blox](https://hugoblox.com/)
       	
     	!!! tip "推荐理由"
 			使用文档类框架写博客，便于将个人博文有条理地整理成目录树。

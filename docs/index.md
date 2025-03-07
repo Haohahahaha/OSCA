@@ -5,7 +5,7 @@
 
 OSCA团队隶属于信息工程学院本科生实验室，在徐长波老师带领下，由本院同学于2023年9月正式创建。
 
-??? note ""
+??? note " "
     OSCA即操作系统与计算机体系结构（Operating Systems and Computer Architecture）的缩写，同时也明确了本团队的主要学习研究方向为诸如操作系统、计算机体系结构等泛系统领域。
 
 <center><img src="members/osca-20250108.png"/></center>

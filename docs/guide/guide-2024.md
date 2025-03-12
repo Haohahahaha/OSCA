@@ -233,7 +233,9 @@
 		- [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
 
 	!!! tip "APUE"
+		
 		> 书名：Unix 环境高级编程
+		
 		- 如果你在看 Learn C 的时候养成了查 manual 的习惯，但又苦于没有一个文档，能够把一些常用和常见的 函数 系统性地讲解，那么 APUE 这本书也许你可以看一看。
 
 !!! tip "Tips" 

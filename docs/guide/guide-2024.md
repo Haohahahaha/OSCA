@@ -2,6 +2,8 @@
 
 ???+ info "更新记录"
 
+	20250327更新：增加 `入门 I：负基础` 中的备注
+
 	20250312更新：增加参考书：APUE
 
 	20250304更新：数据结构的入门书更新了，xmz同学实测，还不错，有个全貌概览。
@@ -119,6 +121,10 @@
 !!! danger "主要内容"
 
 	1. (没有认真研读的一律判定为负基础) [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) 和 [别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
+
+	> 这两届一上来就摆了两篇文章，看起来是给同学们吓着了。所以在这里做个补充说明咯：
+	> 请放心，你的学长学姐们都很 nice（包括zhr），其实你问一些很傻的问题倒是也无所谓，但我们只是想给双方都节省一些时间（尤其是给学长学姐一方，毕竟还有很多事情要忙。）
+	> 我猜[这个链接](https://ysyx.oscc.cc/docs/ics-pa/FAQ.html#%E6%80%BB%E6%98%AF%E8%A6%81%E6%B1%82%E5%A4%A7%E5%AE%B6stfw-rtfm-rtfsc-%E6%88%91%E6%9C%89%E9%97%AE%E9%A2%98%E9%83%BD%E4%B8%8D%E6%95%A2%E9%97%AE%E4%BA%86-%E8%80%81%E5%B8%88%E5%8A%A9%E6%95%99%E5%80%92%E6%98%AF%E8%BD%BB%E6%9D%BE)会是你阅读完两篇文章之后的想法，链接里也为你解释了我们的想法，互相促进了解吧！
 
 	2. for 负基础的同学：[【计算机义务教育】弥补童年遗失的微机课](https://space.bilibili.com/62799052/channel/collectiondetail?sid=3524511) 更适合你一些。
 

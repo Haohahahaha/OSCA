@@ -21,17 +21,12 @@ OSCA团队隶属于信息工程学院本科生实验室，在徐长波老师带�
     <center><img src="index-pic/图片3-培养方案截图.png"></center>  
 
 ??? tip "双周会宣讲(可展开查看图片)"
-<!--
-    <center><img src="index-pic/图片4-双周会宣讲.jpg"></center>
--->
+
     <center><img src="index-pic/图片5-双周会宣讲.jpg"></center>
 
 ??? tip "双周会(可展开查看图片)"
 
     <center><img src="index-pic/图片6-双周会-2.jpg"></center>
-<!--
-    <center><img src="index-pic/图片7-双周会-2.jpg"></center>
--->
 
 ??? tip "参加学术会议(可展开查看图片)"
 

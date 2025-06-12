@@ -308,7 +308,7 @@
 
 	- [Markdown的示例Doc](https://markdown-it.github.io/)
 
-	- 真的好用的Obsidian：[日常学习工作流](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/)
+	- [Typora 插件合集]https://github.com/obgnail/typora_plugin()
 
 !!! tip "实际上"
 

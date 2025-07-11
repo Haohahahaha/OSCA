@@ -2,6 +2,8 @@
 
 ???+ info "更新记录"
 
+	20250711更新：`基础 II-2` 部分添加一些可参考的平替
+
 	20250327更新：增加 `入门 I：负基础` 中的备注
 
 	20250312更新：增加参考书：APUE
@@ -400,6 +402,14 @@
 !!! danger "主要内容"
 
 	- "[rCore-Tutorial-v3](https://rcore-os.cn/rCore-Tutorial-Book-v3/)"
+
+!!! tips "扩展内容"
+
+	> 也可以任选以下实验之一平替。
+
+	- [SJTU-ChCore](https://gitee.com/ipads-lab/chcore-lab)
+	- [NJU-os-workbench](https://git.nju.edu.cn/jyy/os-workbenchh)
+	- [egos-2000](https://github.com/yhzhang0128/egos-2000)
 
 ???+ note "[OS Tutorial Summer of Code 2020：Rust系统编程入门指导](https://github.com/rcore-os/rCore/wiki/os-tutorial-summer-of-code-2020#step-0-%E8%87%AA%E5%AD%A6rust%E7%BC%96%E7%A8%8B%E5%A4%A7%E7%BA%A67%E5%A4%A9)"
 

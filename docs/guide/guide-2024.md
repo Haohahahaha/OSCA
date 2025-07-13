@@ -310,7 +310,7 @@
 
 	- [Markdown的示例Doc](https://markdown-it.github.io/)
 
-	- [Typora 插件合集]https://github.com/obgnail/typora_plugin()
+	- [Typora 插件合集](https://github.com/obgnail/typora_plugin)
 
 !!! tip "实际上"
 

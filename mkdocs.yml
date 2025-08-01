@@ -44,12 +44,15 @@ nav:
   - 招生简章: recruit/recruit.md
   - 人才培养:
     - guide/index.md
-    - 2023届: 
-      - 2023届-培养方案: guide/guide-2023.md
-      - 2023届-考核标准: guide/assessment-2023.md
+    - 2025届:
+      - 2025届-培养方案: guide/guide-2025.md
     - 2024届:
       - 2024届-培养方案: guide/guide-2024.md
       - 2024届-考核标准: guide/assessment-2024.md
+    - 2023届: 
+      - 2023届-培养方案: guide/guide-2023.md
+      - 2023届-考核标准: guide/assessment-2023.md
+
   - 成员简介: members/members.md
   - 友情链接: members/links.md
 

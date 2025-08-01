@@ -145,15 +145,17 @@
 
 ### 2-2：编程初探——培育基本素养
 
-	1. 凑合过渡の IDE ：[VS2022](https://www.bilibili.com/video/BV1Xt411g7jT)
+!!! danger "此部分有待改编与补充。"
 
-	2. C 教程：**以精简版 C 语言为主！**（在度盘中，记得找zhr要资料）
+1. 凑合过渡の IDE ：[VS2022](https://www.bilibili.com/video/BV1Xt411g7jT)
 
-	3. !!! 必学 -- [变量名命名的艺术](https://www.bilibili.com/video/BV1X64y1o7EZ)
+2. C 教程：**以精简版 C 语言为主！**（在度盘中，记得找zhr要资料）
 
-		> 不规范的代码读起来令人去世。
+3. !!! 必学 -- [变量名命名的艺术](https://www.bilibili.com/video/BV1X64y1o7EZ)
 
-	4. 学习方法の提高：[费曼学习法](https://baike.baidu.com/item/费曼学习法/50895393#2)
+	> 不规范的代码读起来令人去世。
+
+4. 学习方法の提高：[费曼学习法](https://baike.baidu.com/item/费曼学习法/50895393#2)
 
 ### 2-3：入门书籍——简单了解
 
@@ -474,5 +476,8 @@
 
 ### 6-2 C++ 生态
 
+!!! danger "有待补充和开发"
 
 ### 6-3 Rust
+
+!!! danger "有待补充和开发"

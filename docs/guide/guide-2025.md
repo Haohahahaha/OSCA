@@ -139,7 +139,7 @@
 	1. 请认真阅读 [F1 如何科学地提问 - 一生一芯](https://ysyx.oscc.cc/docs/2407/f/1.html)。
 	    这篇文章中含有几个需要说明的点：
       	1. “创建并填写学习记录”——别担心，我们的双周会会完成这一部分的内容，双周会做为我们考核进度和交流的重要活动，非特殊情况必须参加；
-      	2. “阅读提问的智慧”——主要任务，请认真阅读。正文中包含的所有链接（如提问模板）也必须一并阅读。
+      	2. “阅读提问的智慧（一生一芯版）”——主要任务，请认真阅读。正文中包含的所有链接（如提问模板）也必须一并阅读。
       	3. 总结部分提到的笔记，在本培养方案为 工具 II-5 博客部分。在掌握之前，建议自己学习Markdown，在本地记录。等到开设博客时一并上传。
 
 	2. for 负基础的同学：[【计算机义务教育】弥补童年遗失的微机课](https://space.bilibili.com/62799052/channel/collectiondetail?sid=3524511) 更适合你一些。
@@ -227,37 +227,37 @@
 
 	- 视频教程：
     	
-		- [VMWare]-[VMWare WorkStation虚拟机权威指南](https://www.bilibili.com/video/BV1t741167UB/)
+		- [VMWare] [VMWare WorkStation虚拟机权威指南](https://www.bilibili.com/video/BV1t741167UB/)
     	
-		- [Linux安装]-[步入Linux的现代方法](https://www.bilibili.com/video/BV18U4y1W7av)
+		- [Linux安装] [步入Linux的现代方法](https://www.bilibili.com/video/BV18U4y1W7av)
 
 	- 图文教程：
     	
-		 [Ubuntu 22.04 工作台搭建全流程](https://cs.haohaha.cn/02-ubuntu/02-nanny/tutorial/)
+		- [保姆级教程] [Ubuntu 22.04 工作台搭建全流程](https://cs.haohaha.cn/02-ubuntu/02-nanny/tutorial/)
     	
-		- [PA0]-[PA0](https://ysyx.oscc.cc/docs/ics-pa/PA0.html)：完成到“Getting Source Code for PAs”之前。
+		- [PA0] [PA0](https://ysyx.oscc.cc/docs/ics-pa/PA0.html)：完成到“Getting Source Code for PAs”之前。
         	
-			- vim 初学：命令行中敲`vimtutor`即可。
+			- [vim] 初学：命令行中敲`vimtutor`即可。
         	
-			- [tmux]-[tmux 使用教程](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
+			- [tmux] [tmux 使用教程](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
 	
 	【Linux 操作】
 
 	请通读并且敲一遍所有命令，尝试尝试。存好链接当字典用。因为你不可能记住所有。
 
-	- [Linux入门教程](https://ysyx.oscc.cc/docs/ics-pa/linux.html)：全部掌握（综合示例除外）。
+	- [ysyx-Linux] [Linux入门教程](https://ysyx.oscc.cc/docs/ics-pa/linux.html)：全部掌握（综合示例除外）。
 
-	- [101]-[Linux零基础用户入门: Linux 101](https://101.ustclug.org/)：最全，包含一些其他链接的内容，但要求绝大部分掌握，如果感觉太难，不知道是否需要继续学下去，请问你的学长。
+	- [101] [Linux零基础用户入门: Linux 101](https://101.ustclug.org/)：最全，包含一些其他链接的内容，但要求绝大部分掌握，如果感觉太难，不知道是否需要继续学下去，请问你的学长。
   
-	- [Missing]-[Missing Semester(计算机教育中缺失的一课) - MIT](https://missing-semester-cn.github.io/)：必做前六个（1/13-1/22）。
+	- [Missing] [Missing Semester(计算机教育中缺失的一课) - MIT](https://missing-semester-cn.github.io/)：必做前六个（1/13-1/22）。
 
-	- [man快速入门](https://ysyx.oscc.cc/docs/ics-pa/man.html)：全部掌握
+	- [man] [man快速入门](https://ysyx.oscc.cc/docs/ics-pa/man.html)：全部掌握
 
-	- [git快速入门](https://ysyx.oscc.cc/docs/ics-pa/git.html)：全部掌握
+	- [git] [git快速入门](https://ysyx.oscc.cc/docs/ics-pa/git.html)：全部掌握
 
-	- [命令行]-[命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)：不要求全部记忆。
+	- [命令行] [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)：不要求全部记忆。
 
-    - [make]-[跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/overview.html)：扩展阅读。101里也已包含了基本内内容。能够写 Makefile 解决实际问题即可。
+    - [make] [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/overview.html)：扩展阅读。101里也已包含了基本内内容。能够写 Makefile 解决实际问题即可。
 
 ### 2-5：熟悉C语言
 
@@ -268,8 +268,6 @@
 	- 【进阶C语言】[Learn C the hard way](https://www.cntofu.com/book/25/index.html)[(备用链接)](https://wizardforcel.gitbooks.io/lcthw/content/preface.html)：在 Linux 中完成练习0~22, 练习24~25, 练习27~33, 你需要将示例代码拷贝到Linux中编译并运行, 结合文字RTFSC理解示例代码, 并完成相应的附加题。这是我们考核的重点内容，请务必重视。
 
 	- 【参考教材】C Primer Plus：有你用得到的大部分语法。但是不用准备了，一是有电子版，二是看上面的 Learn C 也够了。
-
-
 
 !!! warning "作者寄语" 
 
@@ -452,9 +450,9 @@
 
 ## 6-应用
 
-### 6-1 C 
+### 6-1 C 进阶
 
-!!! danger "超级进阶"
+!!! danger "也许可以称得上是“熟练掌握”？"
 
 	- 规范化：[C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
 		

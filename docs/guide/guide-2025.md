@@ -389,7 +389,7 @@
 
 	"一生一芯"能够完成"自制CPU"与"自制OS"的培养训练，但我们认为ysyx更大的意义在于，能够使人**真正成长并拥有自己独立解决问题的能力**（这对于自学更多专业课程具有根本性的意义）
 
-### 5-2：[OS] uCore & rCore
+### 5-2：[OS] rCore
 
 !!! danger "主要内容"
 
@@ -472,7 +472,7 @@
 
 	- 自然地，UNP（Unix网络编程）你也可以看看。
 		
-	- Poniters On C 
+	- Poniters on C 
 
 	- Expert C Programming 
 
@@ -488,12 +488,12 @@
 
 !!! danger "主要内容"
 
-	C++：侯捷视频教程（网盘，记得找Haohaha要资料）
+	- 侯捷视频教程
 
 ### 6-3 Rust
 
 !!! danger "主要内容"
 
-	Rust：[Rust程序设计语言](https://rustwiki.org/zh-CN/book/)
+	- [Rust程序设计语言](https://rustwiki.org/zh-CN/book/)
 
 	> 更多的中文Rust教程在[主站](https://rustwiki.org/)。

@@ -263,7 +263,7 @@
 
 !!! danger "主要内容"
 
-	我们要在 Linux 上学习编，面对命令行吧😁。
+	我们要在 Linux 上学习编程，那么，面对命令行吧😁。
 
 	- 【进阶C语言】[Learn C the hard way](https://www.cntofu.com/book/25/index.html)[(备用链接)](https://wizardforcel.gitbooks.io/lcthw/content/preface.html)：在 Linux 中完成练习0~22, 练习24~25, 练习27~33, 你需要将示例代码拷贝到Linux中编译并运行, 结合文字RTFSC理解示例代码, 并完成相应的附加题。这是我们考核的重点内容，请务必重视。
 
@@ -277,6 +277,8 @@
 
 ## 3-工具与活动
 
+!!! example "3-1/2/3 的内容会安排在双周会中，故写下大纲以供参考。"
+
 ### 3-1：活动-新生宣讲
 
 !!! danger "主要内容"
@@ -289,39 +291,47 @@
 
 	- Vim使用
 
-### 3-2：活动-双周会学长宣讲
+### 3-2：活动-双周会学长宣讲-正式成员
 
 !!! danger "主要内容"
 
 	- 梯子
 
-	- GPT（正式成员）
+	- GPT
 
-	- PPT（正式成员）
+	- PPT
 
-	- OBS（正式成员）
+	- OBS
 
-	- 个人博客（正式成员）[单独指导]
+	- 个人博客 [单独指导]
 
-### 3-3：个人博客（正式成员）<a id="II-5"></a>
+### 3-3：个人博客-正式成员 <a id="II-5"></a>
 
-!!! warning "博客只是费曼学习法的成果表现形式，切莫买椟还珠。"
+!!! warning "博客只是学习/思考的成果表现形式，切莫买椟还珠。"
 
 !!! warning "英语英语英语！"
 
-	从下面开始，英语就变得异常重要了，毕竟当你有了一定英文水平之后，“睁眼看世界”，你会发现太多太多的精品课程等待你去学习和探索。所以我建议在这之前，把考研单词用墨墨至少全部过完一遍。
+	从这里开始，{==英语就变得非常非常重要了==}，毕竟当你有了一定英文水平之后，“睁眼看世界”，你会发现太多太多的精品课程等待你去学习和探索。所以我建议在这之前，把考研单词用墨墨（类似软件）至少全部过完一遍。
 
 !!! danger "主要内容"
 
-	- (提供成熟的解决方案) from: [个人Blog搭建——以 GitHub Pages + Mkdocs 为例](https://www.bilibili.com/video/BV1hL4y1w72r)
-
-	- [Mkdocs-material Docs](https://squidfunk.github.io/mkdocs-material/)
-
-	- 这里有写博客的一些规范化的内容，以及写博客的方方面面，很有用！[如何坚持写技术博客？ - Raven的文章 - 知乎](https://zhuanlan.zhihu.com/p/497150220)
+	【Markdown 写作】
 
 	- [Markdown的示例Doc](https://markdown-it.github.io/)
+	
+	- Windows 系统下，强烈建议使用 Typora 进行写作。
+	 
+    	- 免费版安装包{==zhr会给你的，请务必询问==}。
 
-	- [Typora 插件合集](https://github.com/obgnail/typora_plugin)
+	【博客搭建】
+
+	- 【必选】[基于 mkdocs-material 的个人博客搭建](https://cs.haohaha.cn/03-blog/01-init/tutorial/)
+
+        - 可以看看视频帮助理解，但是部署博客要按照上面的教程做：[个人Blog搭建——以 GitHub Pages + Mkdocs 为例](https://www.bilibili.com/video/BV1hL4y1w72r)
+
+	- 【规范化】这里有写博客的一些规范化的内容，以及写博客的方方面面，很有用！[如何坚持写技术博客？ - Raven的文章 - 知乎](https://zhuanlan.zhihu.com/p/497150220)
+
+	- 【文档】[Mkdocs-material Docs](https://squidfunk.github.io/mkdocs-material/)：博客技术文档，就是说明书啦。帮助你设置or定制化你的个人博客。
 
 !!! warning "实际上"
 
@@ -335,7 +345,7 @@
 
 !!! info "可选用的博客框架"
 
-	我们主要用 `mkdocs-material`。
+	📢我们主要用 `mkdocs-material`。
  
 	- 文档类
   
@@ -347,8 +357,10 @@
     	> 推荐理由：使用文档类框架写博客，便于将个人博文有条理地整理成目录树。
 
   	- 博客类
-    	- [Hexo](https://hexo.io/zh-cn/) 😉超级经典
-      	> 优点：个性化主题丰富~（More...）
+    	
+		- [Hexo](https://hexo.io/zh-cn/) 😉超级经典
+    	
+		> 优点：个性化主题丰富~（More...）
 
 
 ## 4-运维-云计算

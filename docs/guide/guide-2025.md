@@ -132,136 +132,144 @@
 
 !!! warning "此部分适用于零基础/负基础人群。"
 	
-	> 负基础是什么呢？我认为，比如，上大学是你第一次有机会认真使用电脑。
+	负基础是什么呢？我认为，比如，上大学是你第一次有机会认真使用电脑。
 
 !!! danger "主要内容"
 
-	1. 请认真阅读[F1 如何科学地提问 - 一生一芯](https://ysyx.oscc.cc/docs/2407/f/1.html)。
+	1. 请认真阅读 [F1 如何科学地提问 - 一生一芯](https://ysyx.oscc.cc/docs/2407/f/1.html)。
 	    这篇文章中含有几个需要说明的点：
       	1. “创建并填写学习记录”——别担心，我们的双周会会完成这一部分的内容，双周会做为我们考核进度和交流的重要活动，非特殊情况必须参加；
       	2. “阅读提问的智慧”——主要任务，请认真阅读。正文中包含的所有链接（如提问模板）也必须一并阅读。
       	3. 总结部分提到的笔记，在本培养方案为 工具 II-5 博客部分。在掌握之前，建议自己学习Markdown，在本地记录。等到开设博客时一并上传。
 
-	> 之前两届，刚入学一上来就摆了两篇文章，看起来是给新同学们吓着了。所以在这里做个补充说明：
-	>
-	> 请放心，你的学长学姐们基本都很 nice，其实你问一些很傻的问题倒是也无所谓，但我们只是想给双方都节省一些时间（尤其是给学长学姐一方，毕竟还有很多事情要忙。）
-	>
-	> 我猜[这个链接](https://ysyx.oscc.cc/docs/ics-pa/FAQ.html#%E6%80%BB%E6%98%AF%E8%A6%81%E6%B1%82%E5%A4%A7%E5%AE%B6stfw-rtfm-rtfsc-%E6%88%91%E6%9C%89%E9%97%AE%E9%A2%98%E9%83%BD%E4%B8%8D%E6%95%A2%E9%97%AE%E4%BA%86-%E8%80%81%E5%B8%88%E5%8A%A9%E6%95%99%E5%80%92%E6%98%AF%E8%BD%BB%E6%9D%BE)会是你阅读完两篇文章之后的想法，链接里也为你解释了我们的想法，互相促进了解吧！
-
 	2. for 负基础的同学：[【计算机义务教育】弥补童年遗失的微机课](https://space.bilibili.com/62799052/channel/collectiondetail?sid=3524511) 更适合你一些。
 
 	3. 在搞定“义务教育”之后，这个在使用的过程中长期慢慢看即可，但建议尽快过一遍，以预防出现“未知的未知”的情况：[Windows基础](https://www.bilibili.com/video/BV1vR4y1Q7iF) + [计算机硬件基础](https://www.bilibili.com/video/BV1TL4y1N7ZM)
 
+!!! warning "作者寄语"
+
+	之前两届，刚入学一上来就摆了两篇文章，看起来是给新同学们吓着了。所以在这里做个补充说明：
+	
+	请放心，你的学长学姐们基本都很 nice，其实你问一些很傻的问题倒是也无所谓，但我们只是想给双方都节省一些时间（尤其是给学长学姐一方，毕竟还有很多事情要忙。）
+	
+	我猜[这个链接](https://ysyx.oscc.cc/docs/ics-pa/FAQ.html#%E6%80%BB%E6%98%AF%E8%A6%81%E6%B1%82%E5%A4%A7%E5%AE%B6stfw-rtfm-rtfsc-%E6%88%91%E6%9C%89%E9%97%AE%E9%A2%98%E9%83%BD%E4%B8%8D%E6%95%A2%E9%97%AE%E4%BA%86-%E8%80%81%E5%B8%88%E5%8A%A9%E6%95%99%E5%80%92%E6%98%AF%E8%BD%BB%E6%9D%BE)会是你阅读完两篇文章之后的想法，链接里也为你解释了我们的想法，互相促进了解吧！
+
 
 ### 2-2：编程初探——培育基本素养
 
-!!! danger "此部分有待改编与补充。"
+!!! danger "主要内容"
 
-1. 凑合过渡の IDE ：[VS2022](https://www.bilibili.com/video/BV1Xt411g7jT)
+	1. 凑合过渡のIDE：
+      	
+		1. 【默认】[VS2022](https://www.bilibili.com/video/BV1Xt411g7jT)
+		
+		2. 其实 [dev-cpp](https://github.com/Embarcadero/Dev-Cpp/releases) 入门学一下语法也够了，至于如何操作……自己去搜一下吧，真挺简单的。 
 
-2. C 教程：**以精简版 C 语言为主！**（在度盘中，记得找zhr要资料）
+	2. 入门 C 语言：
+   
+		1. 【必选】Frank C -- 精简2019版：{==zhr会给你的，请务必询问==}。
+		
+		2. 【可选】浩哥推荐：[C语言必做项目：飞机大战](https://www.bilibili.com/video/BV13nX9YCEEX)，用一个项目来理解C语言。确实能作为培养兴趣的一个小项目。
 
-3. !!! 必学 -- [变量名命名的艺术](https://www.bilibili.com/video/BV1X64y1o7EZ)
+	3. 【必选】[变量名命名的艺术](https://www.bilibili.com/video/BV1X64y1o7EZ)
 
-	> 不规范的代码读起来令人去世。
 
-4. 学习方法の提高：[费曼学习法](https://baike.baidu.com/item/费曼学习法/50895393#2)
+!!! warning "请注意"
+
+	- 不要去 B 站 随便搜一个 C 语言教程就直接看，那纯纯浪费生命！如有此类情况，我们会强制要求转换回上述教程。
+  
+	- 后续还要深入学习C语言，所以只完成当前模块的任务即可。如果因为自己选错教程、内容增多导致进度缓慢，我们会 建议（责令）立刻转换会上述教程，并完成相应任务。
+	
+	- 如果你写出了不规范的代码，那么你就是在提高他人的阅读门槛。那么他人自然不会愿意阅读，如果影响到考核和交流，后果请自负。
+
+	- 新手期，请你摆正自己的位置。
+    	- 我们不排斥你有更多的点子，但这建立在你进度超快质量超高的基础上。
+    	- 正常进度下的“新点子”“新思路”“我要这样做”，一般情况下我们不会接受❌。请你直接认真完成上述任务。
+    	- 如果执意前行，我们表示尊重，但将记录在年终考核档案里，影响综合评价。
 
 ### 2-3：入门书籍——简单了解
 
 !!! danger "主要内容"
 
-	- 程序设计
+	- 【程序设计】编码——隐匿在计算机软硬件背后的语言（计组初探）	
 
-    	- 编码——隐匿在计算机软硬件背后的语言（计组初探）	
+	- 【数据结构】大话数据结构（数据结构入门）：xmz 同学实测，还不错！
 
-	- 数据结构
+	- 【计算机组成原理】计算机是如何跑起来的
 
-		- [新增]大话数据结构（数据结构入门）：xmz 同学实测，还不错！
+	- 【操作系统】Linux是怎样运行的（OS入门）
 
-	- 计算机组成原理
-    	
-		- 计算机是如何跑起来的
-
-	- 操作系统
-	
-    	- Linux是怎样运行的（OS入门）
-
-	- 计算机网络
-
-		- 网络是怎样连接的（计网）
+	- 【计算机网络】网络是怎样连接的（计网）
 
 !!! info "资源寻找"
 
-	这些书籍资源，如果你喜欢纸质版，自己去买；如果你喜欢电子资源（比如用iPad看），自己去找；找不到再来找zhr（别忘了《提问的智慧》）。
+	- 这些书籍资源，如果你喜欢纸质版，请自己购买；
+	
+	- 如果你喜欢电子资源（比如用iPad看），自己去找；
+	
+	- 实在找不到，请你描述你寻找的过程后，再来找队内学长（别忘了《提问的智慧》）。
 
 ### 2-4：Linux 使用——成为专业人士的第一步
 
 !!! warning "说明"
  
-	根据[Linux系统安装和基本使用 - ysyx](https://ysyx.oscc.cc/docs/2306/preliminary/0.2.html) 进行拆解，并加入了一些（有一定重复的）内容。
+	根据 [Linux系统安装和基本使用 - ysyx](https://ysyx.oscc.cc/docs/2306/preliminary/0.2.html) 进行拆解，并加入了一些（有一定重复的）内容。
 
 	写学习记录时的简称放在了下面，位置为`[简称]`。
 
 !!! danger "主要内容"
 
-	- [101]-[Linux零基础用户入门: Linux 101](https://101.ustclug.org/)
+	【搞清楚为什么】
+	
+	- [为什么要学习计算机系统基础](https://ysyx.oscc.cc/docs/ics-pa/why.html)😉
 
-	- [附录]-ysyx引用NJU-PA(NEMU)的几个附录需要先看一看，这样能解答你很多问题
-		
-		- [为什么要学习计算机系统基础](https://ysyx.oscc.cc/docs/ics-pa/why.html)
+	【Linux 安装】
 
-		- [Linux入门教程](https://ysyx.oscc.cc/docs/ics-pa/linux.html)
+	- 视频教程：
+    	
+		- [VMWare]-[VMWare WorkStation虚拟机权威指南](https://www.bilibili.com/video/BV1t741167UB/)
+    	
+		- [Linux安装]-[步入Linux的现代方法](https://www.bilibili.com/video/BV18U4y1W7av)
 
-		- [man快速入门](https://ysyx.oscc.cc/docs/ics-pa/man.html)
+	- 图文教程：
+    	
+		 [Ubuntu 22.04 工作台搭建全流程](https://cs.haohaha.cn/02-ubuntu/02-nanny/tutorial/)
+    	
+		- [PA0]-[PA0](https://ysyx.oscc.cc/docs/ics-pa/PA0.html)：完成到“Getting Source Code for PAs”之前。
+        	
+			- vim 初学：命令行中敲`vimtutor`即可。
+        	
+			- [tmux]-[tmux 使用教程](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
+	
+	【Linux 操作】
 
-		- [git快速入门](https://ysyx.oscc.cc/docs/ics-pa/git.html)
+	请通读并且敲一遍所有命令，尝试尝试。存好链接当字典用。因为你不可能记住所有。
 
-	- 【现已非推荐】[Frank Linux]-[Linux操作基础 - Frank](https://www.bilibili.com/video/BV18U4y1W7av)(低坡度付费版，如果喜欢Frank风格，相信你还是可以支持一下的)
+	- [Linux入门教程](https://ysyx.oscc.cc/docs/ics-pa/linux.html)：全部掌握（综合示例除外）。
 
-	- [tmux]-[tmux 使用教程](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
-
-	- [Getting Started]-[LCPU Getting Started 计算机入门系列课程 - 补充学校课程涉及不到的知识](https://missing.lcpu.dev/) [Bilibili课程链接 - 第一讲](https://www.bilibili.com/video/BV1sLD6YXEC6)
+	- [101]-[Linux零基础用户入门: Linux 101](https://101.ustclug.org/)：最全，包含一些其他链接的内容，但要求绝大部分掌握，如果感觉太难，不知道是否需要继续学下去，请问你的学长。
   
-	- [Missing]-[Missing Semester(计算机教育中缺失的一课) - MIT](https://missing-semester-cn.github.io/)
+	- [Missing]-[Missing Semester(计算机教育中缺失的一课) - MIT](https://missing-semester-cn.github.io/)：必做前六个（1/13-1/22）。
 
-	- [make]-[跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/overview.html)
+	- [man快速入门](https://ysyx.oscc.cc/docs/ics-pa/man.html)：全部掌握
 
-	- [命令行]-[命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+	- [git快速入门](https://ysyx.oscc.cc/docs/ics-pa/git.html)：全部掌握
 
-	- [PA0]-[PA0](https://ysyx.oscc.cc/docs/ics-pa/PA0.html)
+	- [命令行]-[命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)：不要求全部记忆。
 
-	- [Docker —— 配环境利器](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/Docker/)
+    - [make]-[跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/overview.html)：扩展阅读。101里也已包含了基本内内容。能够写 Makefile 解决实际问题即可。
 
-### 2-5：编程深入——精进C语言
+### 2-5：熟悉C语言
 
 !!! danger "主要内容"
 
-	关于C语言的学习，（有Linux命令行基础）
+	我们要在 Linux 上学习编，面对命令行吧😁。
 
-	- [Learn C the hard way](https://www.cntofu.com/book/25/index.html) [备用链接](https://wizardforcel.gitbooks.io/lcthw/content/preface.html)
+	- 【进阶C语言】[Learn C the hard way](https://www.cntofu.com/book/25/index.html)[(备用链接)](https://wizardforcel.gitbooks.io/lcthw/content/preface.html)：在 Linux 中完成练习0~22, 练习24~25, 练习27~33, 你需要将示例代码拷贝到Linux中编译并运行, 结合文字RTFSC理解示例代码, 并完成相应的附加题。这是我们考核的重点内容，请务必重视。
 
-	- C Primer Plus 
+	- 【参考教材】C Primer Plus：有你用得到的大部分语法。但是不用准备了，一是有电子版，二是看上面的 Learn C 也够了。
 
-	- Poniters On C 
 
-	- Expert C Programming 
-
-	- C Triggers Pitfalls
-
-	规范化-进阶： 
-
-	- ysyx引用的内容更全面，更好：
-
-		- [C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
-
-		- [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
-
-	- APUE
-		
-		> 书名：Unix 环境高级编程
-		
-		- 如果你在看 Learn C 的时候养成了查 manual 的习惯，但又苦于没有一个文档，能够把一些常用和常见的 函数 系统性地讲解，那么 APUE 这本书也许你可以看一看。
 
 !!! warning "作者寄语" 
 
@@ -443,6 +451,22 @@
 
 
 ## 6-应用
+
+### 6-1 C 
+
+!!! danger "超级进阶"
+
+	- 规范化：[C Coding Standard](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html)
+		
+	- APUE（Unix 环境高级编程）：如果你在看 Learn C 的时候养成了查 manual 的习惯，但又苦于没有一个文档，能够把一些常用和常见的 函数 系统性地讲解，那么 APUE 这本书也许你可以看一看。
+
+	- 自然地，UNP（Unix网络编程）你也可以看看。
+		
+	- Poniters On C 
+
+	- Expert C Programming 
+
+	- C Triggers Pitfalls
 
 ### 6-1 Java 生态
 

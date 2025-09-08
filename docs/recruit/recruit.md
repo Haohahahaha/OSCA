@@ -60,7 +60,7 @@
 
 	【微信】薛学长
 	
-	<center><img src="https://osca.haohaha.cn/recruit/xmz.png" width="30%"></center>
+	<center><img src="https://osca.haohaha.cn/recruit/xmz-1.png" width="30%"></center>
 
 	【微信】备用-张学长
 

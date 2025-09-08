@@ -1,5 +1,7 @@
 # 招生简章
 
+!!! danger "❤[2025 OSCA 招生简章](https://osca-ielab-bigc.feishu.cn/wiki/ABNHwU5rxiK9x5kTyD7cGJOKnFb?from=from_copylink)已发布，欢迎查看！"
+
 !!! danger "亮点"
 
 	在这里，你将拥有更高的效率与更多的时间来允许你在计算机的世界探索与畅游。
@@ -52,11 +54,17 @@
 
 	面试结束后，会在下一次面试前发出录取通知，否则视为未录取。
 
-	报名问卷：【现已封存，2025年度再次开放。】
+	报名问卷：[点击报名](https://osca-ielab-bigc.feishu.cn/share/base/form/shrcnBYYTWJDKo2OPbunPCLTVjf)
 
 !!! info "感兴趣 && More Question && 报名"
 
-    【微信】doudoudog2wice (张学长)
+	【微信】薛学长
+
+    ![wx-xmz](xmz.png)
+
+	【微信】备用-张学长
+
+	![wx-zhr](zhr.png)
 
     答疑群由学长确认身份后邀请。
 
@@ -66,4 +74,4 @@
 >
 > - Xmbtx (Botao Zhao)
 >
-> Update: 2024-08-12
+> Update: 2025-09-08

@@ -59,12 +59,11 @@
 !!! info "感兴趣 && More Question && 报名"
 
 	【微信】薛学长
-
-    ![wx-xmz](xmz.png)
+	<img src="xmz.png" width="50%">
 
 	【微信】备用-张学长
 
-	![wx-zhr](zhr.jpg)
+	<img src="zhr.jpg" width="50%">
 
     答疑群由学长确认身份后邀请。
 

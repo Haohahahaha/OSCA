@@ -59,10 +59,12 @@
 !!! info "感兴趣 && More Question && 报名"
 
 	【微信】薛学长
-	<img src="../xmz.png" width="50%">
+	
+	<center><img src="https://osca.haohaha.cn/recruit/xmz.png" width="50%"></center>
 
 	【微信】备用-张学长
-	<img src="../zhr.jpg" width="50%">
+	
+	<center><img src="https://osca.haohaha.cn/recruit/zhr.jpg" width="50%"></center>
 
     答疑群由学长确认身份后邀请。
 

@@ -1,6 +1,6 @@
 # 招生简章
 
-!!! danger "❤[2025 OSCA 招生简章](https://osca-ielab-bigc.feishu.cn/wiki/ABNHwU5rxiK9x5kTyD7cGJOKnFb?from=from_copylink)已发布，欢迎查看！"
+!!! danger "😉😉😉[2025 OSCA 招生简章](https://osca-ielab-bigc.feishu.cn/wiki/ABNHwU5rxiK9x5kTyD7cGJOKnFb?from=from_copylink)已发布，欢迎查看！"
 
 !!! danger "亮点"
 

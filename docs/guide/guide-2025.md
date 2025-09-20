@@ -261,15 +261,15 @@
 
 	- [ysyx-Linux] [Linux入门教程](https://ysyx.oscc.cc/docs/ics-pa/linux.html)：全部掌握（综合示例除外）。
 
-	- [101] [Linux零基础用户入门: Linux 101](https://101.ustclug.org/)：最全，包含一些其他链接的内容，但要求掌握绝大部分正文部分，如果感觉太难，不知道是否需要继续学下去，请问你的学长。扩展阅读和思考题作为感兴趣的选修。
+	- [101] [Linux零基础用户入门: Linux 101](https://101.ustclug.org/)：最全，包含一些其他链接的内容，但要求掌握绝大部分正文部分（主要把它当成主教材了）。如果感觉太难，不知道是否需要继续学下去，请问你的学长。扩展阅读和思考题作为感兴趣的选修。
   
 	- [Missing] [Missing Semester (计算机教育中缺失的一课) - MIT](https://missing-semester-cn.github.io/)：必做前六个（1/13-1/22）。
 
-	- [man] [man 快速入门](https://ysyx.oscc.cc/docs/ics-pa/man.html)：全部掌握
+	- [man] [man 快速入门](https://ysyx.oscc.cc/docs/ics-pa/man.html)：小文章一篇，全部掌握
 
-	- [git] [git 快速入门](https://ysyx.oscc.cc/docs/ics-pa/git.html)：全部掌握
+	- [git] [git 快速入门](https://ysyx.oscc.cc/docs/ics-pa/git.html)：小文章一篇，全部掌握
 
-	- [命令行] [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)：不要求全部记忆。
+	- [命令行] [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)：不要求全部记忆，先看一遍，以后用Linux多了，再看看也行。
 
     - [make] [跟我一起写 Makefile](https://seisman.github.io/how-to-write-makefile/overview.html)：扩展阅读。101 里也已包含了基本内内容。能够写 Makefile 解决实际问题即可。
 
@@ -278,6 +278,10 @@
 !!! danger "主要内容"
 
 	我们要在 Linux 上学习编程，那么，面对命令行吧😁。
+
+	> 备用链接可能要用梯子才能打开。主链接时不时就访问不了，很怪。
+	> 
+	> 都访问不了的话，去 Google 一下，向学长确认一下内容是否正确即可。
 
 	- 【进阶 C 语言】[Learn C the hard way](https://www.cntofu.com/book/25/index.html) [(备用链接)](https://wizardforcel.gitbooks.io/lcthw/content/preface.html)：在 Linux 中完成 练习 0~22, 练习 24~25, 练习 27~33, 你需要将示例代码拷贝到 Linux 中编译并运行, 结合文字 RTFSC 理解示例代码, 并完成相应的附加题。这是我们考核的重点内容，请务必重视。
 

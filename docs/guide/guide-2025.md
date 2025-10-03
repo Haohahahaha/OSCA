@@ -2,6 +2,8 @@
 
 ???+ quote "更新记录"
 
+	20251003更新：变量名命名的艺术 已失效，故增加平替内容。
+
 	20250806更新：完成第一版。部分区块仍需探索。
 
 	20250801更新：新建 2025 届培养方案。本届重构为模块，并且选择更多，政策相对更加“对新手友好”。
@@ -183,9 +185,23 @@
 		
 		- 【可选】浩哥推荐：[C语言必做项目：飞机大战](https://www.bilibili.com/video/BV13nX9YCEEX)，用一个项目来理解 C 语言。确实能作为培养兴趣的一个小项目。
 
-	- 初步规范化
+	- 规范化（非初步）
     	
-		- 【必选】[变量名命名的艺术](https://www.bilibili.com/video/BV1X64y1o7EZ)
+		> Frank 的 变量名命名艺术 系列视频无了，所以直接找了源文档放在下面。
+		>
+		> 至于类似的介绍视频，建议找1-2个平替看看吧，目前没有非常推荐的。
+		>
+		> 直接读文档也可以，但一方面没必要，用的时候能查到就行；另一方面也有点阅读的困难。
+
+		- 【必选】[比较简洁的 C 规范](https://pages.carm.cc/doc/c-name-rules.html)
+
+		> 以下可以打开简单浏览一番，了解其中大概框架与内容即可。
+		
+		- [Google C++ Style Guide](http://staff.ustc.edu.cn/~tongwh/CG_2019/materials/Google%20C++%20Style%20Guide.pdf) 
+		- [Huawei C Style Guide](https://file.elecfans.com/web1/M00/80/8A/o4YBAFwq8yOAXZ-yAA5MBy2zb4M481.pdf)
+		- [Alibaba Java Style Guide](https://xiaoxue-images.oss-cn-shenzhen.aliyuncs.com/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83%EF%BC%88%E5%B5%A9%E5%B1%B1%E7%89%88%EF%BC%89.pdf)
+		- [Google Style Guides](https://google.github.io/styleguide/)
+		- [Rust Style Guide](https://course.rs/practice/naming.html)
 
 
 !!! warning "请注意"

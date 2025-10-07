@@ -448,7 +448,7 @@
 
 	> 也可以任选以下实验之一平替，但还是建议学习 rCore。
 
-	- [SJTU-ChCore](https://gitee.com/ipads-lab/chcore-lab)
+	- [SJTU-ChCore](https://gitee.com/ipads-lab/chcore-lab) `C`
 	- [NJU-os-workbench](https://git.nju.edu.cn/jyy/os-workbenchh)
 	- [egos-2000](https://github.com/yhzhang0128/egos-2000)
 

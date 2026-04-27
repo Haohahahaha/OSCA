@@ -1,5 +1,3 @@
-<center><img src="index-pic/osca-logo.png" width="200"/></center>
-
 !!! tip "欢迎来到OSCA主页！"
 
 !!! info "OSCA团队隶属于信息工程学院本科生实验室，于2023年9月正式创建。"
